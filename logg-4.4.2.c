@@ -2,7 +2,7 @@
 #include "allegro.h"
 #include "allegro/internal/aintern.h"
 
-#include "logg.h"
+#include "logg-4.4.2.h"
 
 /* XXX requires testing */
 #ifdef ALLEGRO_BIG_ENDIAN
